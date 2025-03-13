@@ -1,4 +1,4 @@
-package main
+package ma
 
 type Options struct {
 	WorkDir           string // 工作数据目录;
